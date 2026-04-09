@@ -50,8 +50,8 @@ class FormFillerApp(tk.Tk):
         title_cnt = tk.Frame(hdr, bg=BG)
         title_cnt.pack(side="left")
 
-        tk.Label(title_cnt, text="Form Filler", font=FONT_TITLE, bg=BG, fg=TEXT).pack(anchor="w")
-        tk.Label(title_cnt, text="Upload a PDF or Word form",
+        tk.Label(title_cnt, text="INFICON Form Filler", font=FONT_TITLE, bg=BG, fg=TEXT).pack(anchor="w")
+        tk.Label(title_cnt, text="Please upload a PDF or Word form below",
                  font=FONT_SMALL, bg=BG, fg=SUBTEXT).pack(anchor="w", pady=(4, 0))
 
         # Right side: INFICON Logo
