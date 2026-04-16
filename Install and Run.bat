@@ -8,7 +8,6 @@ echo   INFICON Form Filler
 echo  =========================================
 echo.
 
-:: ── Check Python ──────────────────────────────────────────────────────────
 python --version >nul 2>&1
 if errorlevel 1 (
     echo  [!] Python is not installed or not in PATH.
@@ -58,7 +57,6 @@ echo.
 echo  [OK] All libraries ready.
 echo.
 
-:: ── Launch the app ─────────────────────────────────────────────────────────
 echo  Launching Form Filler...
 echo.
 cd /d "%~dp0"
