@@ -25,7 +25,6 @@ for /f "tokens=2 delims= " %%v in ('python --version 2^>^&1') do set PY_VER=%%v
 echo  [OK] Python %PY_VER% found.
 echo.
 
-:: ── Install / upgrade dependencies ────────────────────────────────────────
 echo  Installing required libraries (this may take a few minutes on first run)...
 echo  Please wait — do not close this window.
 echo.
