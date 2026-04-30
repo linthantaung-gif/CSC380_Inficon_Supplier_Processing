@@ -1,0 +1,356 @@
+[
+  {
+    "question_id": "Q1",
+    "question_text": "Company Name",
+    "answer_text": "Inficon Inc.",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q2",
+    "question_text": "Street Address",
+    "answer_text": "2 Technology Place",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q3",
+    "question_text": "Subsidary of",
+    "answer_text": "INFICON Holding AG",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q4",
+    "question_text": "Country Name",
+    "answer_text": "United States",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q5",
+    "question_text": "City",
+    "answer_text": "East Syracuse",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q6",
+    "question_text": "State",
+    "answer_text": "New York",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q7",
+    "question_text": "Zip Code",
+    "answer_text": "13057",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q8",
+    "question_text": "County Name",
+    "answer_text": "Onondaga",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q9",
+    "question_text": "NAICS Codes 1",
+    "answer_text": "334513",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q9.1",
+    "question_text": "NAICS Codes 2",
+    "answer_text": "334515",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q9.2",
+    "question_text": "NAICS Codes 3",
+    "answer_text": "334516",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q9.3",
+    "question_text": "NAICS Codes 4",
+    "answer_text": "333200",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q9.4",
+    "question_text": "NAICS Codes 5",
+    "answer_text": "532490",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q10",
+    "question_text": "Cage Code",
+    "answer_text": "56507",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q11",
+    "question_text": "EMR Number",
+    "answer_text": "0.69",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q12",
+    "question_text": "State Incorporated In",
+    "answer_text": "Delaware",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q13",
+    "question_text": "Global Parent Name",
+    "answer_text": "INFICON Holding AG",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q14",
+    "question_text": "Congressional District",
+    "answer_text": "27th",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q15",
+    "question_text": "Manufacturing Space",
+    "answer_text": "70,000 sq.ft. (6500m^2)",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q16",
+    "question_text": "Office Space",
+    "answer_text": "100,000 sq. ft.",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q17",
+    "question_text": "Warehouse",
+    "answer_text": "15,000 sq. ft.",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q18",
+    "question_text": "Clean Room",
+    "answer_text": "20,000 sq. ft. (1700m^2)",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q19",
+    "question_text": "Total Facility",
+    "answer_text": "210,000 sq. ft. (19,500m^2)",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q20",
+    "question_text": "Year Started/Established",
+    "answer_text": "1969",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q21",
+    "question_text": "Years in Business",
+    "answer_text": "51",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q22",
+    "question_text": "INFICON Holding AG Sales 2017",
+    "answer_text": "US$374M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q23",
+    "question_text": "INFICON Holding AG Sales 2018",
+    "answer_text": "US$410M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q24",
+    "question_text": "INFICON Holding AG Sales 2019",
+    "answer_text": "US$382M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q25",
+    "question_text": "INFICON Inc. Sales 2017",
+    "answer_text": "US$143M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q26",
+    "question_text": "INFICON Inc. Sales 2018",
+    "answer_text": "US$160M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q27",
+    "question_text": "INFICON Inc. Sales 2019",
+    "answer_text": "US$144M",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q28",
+    "question_text": "Other Financial Results",
+    "answer_text": "https://ir.inficon.com/financial-information/annual-reports",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q29",
+    "question_text": "Company Size Classification",
+    "answer_text": "Inficon Inc. is classified as a large business",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q30",
+    "question_text": "Minority Owned",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q31",
+    "question_text": "Hub Zone",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q32",
+    "question_text": "Veteran Owned",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q33",
+    "question_text": "Native Owned",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q34",
+    "question_text": "Woman Owned",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q35",
+    "question_text": "Market Exchange",
+    "answer_text": "SWX:IFC",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q36",
+    "question_text": "Market Registration",
+    "answer_text": "#19.1158",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q37",
+    "question_text": "VAT Number",
+    "answer_text": "N/A",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q38",
+    "question_text": "What is the company's sales breakdown?",
+    "answer_text": "Government 8%, Commercial 30%, Other 62%",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q39",
+    "question_text": "What is the company's sales breakdown",
+    "answer_text": "Medical 2%, Aerospace 2%, Automotive 12%, Commercial 30%, other 54%",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q40",
+    "question_text": "Clean Room Class",
+    "answer_text": "Class ISO 7 (Class 10,000 per US FED STD 209E)",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q41",
+    "question_text": "Number of Employees",
+    "answer_text": "281 On-Site",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q42",
+    "question_text": "Employee Breakdowns",
+    "answer_text": "Office 155, Manufacturing 108, QA 2, Other 11; Direct 59, Indirect 222, Temp Direct 0, Temp Indirect 1; Sales & Marketing 68, Design Eng/R&D 62, Manufacturing 71, Manuf. Engineers 19, QC 5, Admin 26, Procurement 8, Service Support 22, Production 43, Order Services 6, Supply Chain 22, Other 11, Temp 2",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q43",
+    "question_text": "OHSA Recordables",
+    "answer_text": "1 OHSA recordable case in 2018",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q44",
+    "question_text": "Board of Directors",
+    "answer_text": "https://ir.inficon.com/financial-information/annual-reports",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q45",
+    "question_text": "Shareholder Information",
+    "answer_text": "https://ir.inficon.com/financial-information/annual-reports",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q46",
+    "question_text": "Tax Code",
+    "answer_text": "161591542",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q47",
+    "question_text": "DUNS (D&B, Duns and Bradstreet) Number",
+    "answer_text": "05-055-2082",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q48",
+    "question_text": "SIC Code",
+    "answer_text": "3823",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q49",
+    "question_text": "Federal Employer ID/Tax ID/FIN?",
+    "answer_text": "16-159-1542",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q50",
+    "question_text": "1099 Supplier",
+    "answer_text": "No",
+    "field_type": "checkbox"
+  },
+  {
+    "question_id": "Q51",
+    "question_text": "W9",
+    "answer_text": "",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q52",
+    "question_text": "Payment Address",
+    "answer_text": "",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q53",
+    "question_text": "ACH Authorization Form - Vendors",
+    "answer_text": "",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q54",
+    "question_text": "Certification of Insurance",
+    "answer_text": "",
+    "field_type": "text"
+  },
+  {
+    "question_id": "Q55",
+    "question_text": "Website Address",
+    "answer_text": "https://www.inficon.com/en",
+    "field_type": "text"
+  }
+]
